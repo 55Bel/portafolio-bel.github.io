@@ -1,0 +1,54 @@
+body {
+    background-color: #d3a8a8;
+}
+a {
+    color: #ff008c; }
+
+
+.primer-parrafo {
+    
+    color: rgb(148, 53, 148);
+    font-size: 18px;
+}
+h2 {
+    color:white;
+    text-align: center;
+}
+
+.segundo-parrafo {
+    
+    color: rgb(148, 53, 148);
+    font-size: 16px;
+}
+
+.tercer-parrafo {
+    
+    color: rgb(148, 53, 148);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+header {  
+    color:white;
+    background-color:  #a36363;
+    padding: 20px;
+    text-align: center;
+}
+h3{
+    
+    text-align: center;
+    
+}
+#piedepagina {
+    background-color: #a36363;
+    color: #fff;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.imagen-corazon {
+    width: 100%; 
+    max-width: 60px; 
+    float: right; 
+   }
